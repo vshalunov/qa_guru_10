@@ -7,8 +7,7 @@
 2) Добавить аттачи для Allure – скриншот, page source, console.log и видео
 3) Cделать сборку в Jenkins
 
-1
-
+13
 
 
 
